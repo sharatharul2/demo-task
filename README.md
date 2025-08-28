@@ -78,8 +78,6 @@ Add the following secrets in **GitHub → Repo → Settings → Secrets and vari
 | `ECR_REPO`              | ECR repository name (e.g., `my-app`)           |
 | `ECS_CLUSTER`           | ECS cluster name                               |
 | `ECS_SERVICE`           | ECS service name                               |
-| `DB_USERNAME`           | RDS admin username                             |
-| `DB_PASSWORD`           | RDS admin password                             |
 
 ---
 
